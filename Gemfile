@@ -21,6 +21,10 @@ gem 'jbuilder', '~> 2.7'
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+gem 'devise', '~> 4.2'
+gem 'acts-as-taggable-on', '~> 6.5'
+gem 'shrine', '~> 3.2', '>= 3.2.1'
+gem 'name_of_person', '~> 1.1', '>= 1.1.1'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
